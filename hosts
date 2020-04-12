@@ -1,0 +1,27 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+255.255.255.255	broadcasthost
+::1             localhost 
+
+127.0.0.1	localhost bat.bing.com ad.doubleclick.net googleads.g.doubleclick.net
+127.0.0.1 www.google-analytics.com fonts.googleapis.com www.googleadservices.com tpc.googlesyndication.com
+127.0.0.1 assets.adobetm.com analytics.twitter.com ads.yahoo.com log.dmtry.com t.co c.go-mpulse.com
+# facebook
+127.0.0.1 www.facebook.com
+# neo4j.com
+127.0.0.1 5d7e0.v.fwmrm.net 773-gon-065.mktoresp.com csreport.skype.com 
+# groupme.com
+127.0.0.1 platform.twitter.com connect.facebook.net syndication.twitter.com c.microsoft.com c1.microsoft.com
+# ikea, golfnow.com
+127.0.0.1 tags.tiqcdn.com
+# golfnow.com
+127.0.0.1 www.googletagservices.com api.bazaarvoice.com sb.scorecardresearch.com
+# Observer
+127.0.0.1 ads.adaptv.advertising.com ads.stickyadstv.com search.spotxchange.com
+# icelandair
+127.0.0.1 www.googletagmanager.com
+
