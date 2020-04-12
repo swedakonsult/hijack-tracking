@@ -34,4 +34,7 @@ If you identify a new domain name that's being used to track your actions the do
 echo "127.0.0.1 [domain name]" >> /etc/hosts
 ```
 
-
+## SSL/TLS for Secure Communication
+You can set up a local web server in order to serve up responses to the requests (e.g., nginx). 
+In order to not have warnings in your browser when hijacking these calls you'll need to install certificates.
+You can generate certificates by following [../certificates](Certificates).
